@@ -61,4 +61,4 @@ function buildDownloadFileName($link, licenseType, licenseUser, additional) {
 
     return downloadFileName;
 }
-}
+})();
